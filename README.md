@@ -4,6 +4,7 @@
 1. [Steps-to-run](#Steps-to-run)
 1. [Instructions-to-use-application](#Instructions-to-use-application)
 1. [Refrences](#Refrences)
+1. [Demo](Demo/Demo.mp4)
 # Introduction  
 This application was made using react native.  
 It provides Undo Redo capabilities based on accelerometer data (Tilt Based Undo/Redo).  
