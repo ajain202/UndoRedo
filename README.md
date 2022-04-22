@@ -30,4 +30,5 @@ VSCode Editor: https://code.visualstudio.com/download
 - EXPO: https://docs.expo.dev/get-started/installation/#2-expo-go-app-for-ios-and
 - Expo sensor: https://docs.expo.dev/versions/latest/sdk/accelerometer/
 - Splash Screen: https://docs.expo.dev/versions/latest/sdk/splash-screen/
-- React Native root toast: https://docs.expo.dev/ui-programming/react-native-toast/#cross-platform--react-native-root-toast
+- react native root toast: https://docs.expo.dev/ui-programming/react-native-toast/#cross-platform--react-native-root-toast
+- react native https://reactnative.dev/docs/getting-started
