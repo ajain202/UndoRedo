@@ -23,7 +23,7 @@ VSCode Editor: https://code.visualstudio.com/download
 - Run the command npm start(to run the code in dev mode).
 - Follow the link/Press d in cmd terminal to open developer tools page in your browser.
 - On the Developer page change the connection type to tunnel.
-- Open Expo Go app on your devoce and scan the qr code to run the application.  
+- Open Expo Go app on your device and scan the qr code to run the application.  
 # Instructions-to-use-application  
 - Tilt Phone left to undo text input by one character.
 - Tilt Phone right to redo text input by one character.
